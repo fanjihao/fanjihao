@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&amp;logo=css3" alt="CSS3">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&amp;logo=github" alt="GitHub"></p>
+    <p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
     <!-- <h3 id="-next-steps">👣 Next Steps</h3>
     <p><em>Since you don’t want to leave my profile just yet! Here are some things you can do :</em></p>
     <p>❤️ Offer work : Send the offer on <a href="https://www.linkedin.com/in/aman-atg/"><img src="https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/aman-atg/" alt="Linkedin Badge"></a>
@@ -68,4 +69,3 @@
     <p>Credit: <a href="https://github.com/aman-atg">aman-atg</a></p>
     <p>Last Edited on: 19/11/2020</p> -->
 
-    <p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
