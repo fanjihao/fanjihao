@@ -23,7 +23,7 @@
     <br>
     Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
     </p>
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">
+    <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/5e8e1fcf-31a1-4083-b4f6-2be59a94e178">
     <h3 id="-quick-facts">✨ Quick Facts</h3>
     <ul>
     <li>👨🏽‍💻 I'm a full-time worker now.</li>
