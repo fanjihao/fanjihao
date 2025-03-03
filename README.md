@@ -30,9 +30,9 @@
     <li>🌱 I'm currently learning Rust and TypeScript.</li>
     </ul>
     <!--- 🤔 I’m looking for help for my future MERN projects.-->
-    <ul>
-    <li>💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)</li>
-    </ul>
+<!--     <ul> -->
+<!--     <li>💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)</li> -->
+<!--     </ul> -->
     <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
     <ul>
     <li>🎿 Hobbies other than coding : Reading blogs or about History, Playing games.</li>
