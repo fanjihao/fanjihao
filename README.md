@@ -1,4 +1,4 @@
-<h3 id="hi-there--im-aman">Hi there 👋, I’m <a href="https://github.com/fanjihao">fanjihao</a> 👨‍💻</h3>
+<h3 id="hi-there--im-aman">Hi there 👋, I’m <a href="https://github.com/fanjihao">peter</a> 👨‍💻</h3>
     <br>
     <!-- <a href="https://www.linkedin.com/in/aman-atg/"> -->
     <a href="">
@@ -36,7 +36,7 @@
     <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
     <ul>
     <li>🎿 Hobbies other than coding : Reading blogs or about History, Playing games.</li>
-    <li>📫 How to reach me: <a href="mailto:fanjihao007@gmail.com">fanjihao007@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:fanjihao007@gmail.com">peter98007@gmail.com</a></li>
     <!-- <li>📝 <a href="https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj">Resume</a></li> -->
     </ul>
     <h3 id="️-languages-and-tools">🛠️ Languages and Tools:</h3>
